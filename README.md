@@ -14,7 +14,7 @@
 
 ## How to use
 
-* First: After reading the files with the daily streams, in the format of 'listen-YYYYMMDD.txt', you should save it in the path 'data'. 
+* First: After receiving the files with the daily streams, in the format of 'listen-YYYYMMDD.txt', you should save it in the path 'data'. 
 
 * Second: You need to run the code every day, the code on the notebook: `Exercise_CRM-campaign_Final` (path: 'Exercise_CRM-campaign_Final.ipynb')
 
